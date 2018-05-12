@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '943'
     url: http://www.gutenberg.org/2009/agents/943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22083#Myths-and-Legends-of-the-Great-Plains
 gutenberg_bookshelf:
 - Folklore
 - Native America
